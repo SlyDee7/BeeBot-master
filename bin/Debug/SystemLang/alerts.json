@@ -1,0 +1,17 @@
+{
+  "BOI": "!**mystats** (Show's your current **XP** and how much **XP** is needed for next level!) \n\n!**pick __Your Text Here, Your Text Here__** (Pick's a selection from the list at random. Just say what you want it to select from with comma's between each! You can do more than two.) \n\n!**shoot** Use this command when the hunt is up! Fires a bullet at the target. If it misses try again! You have **5** bullets to start, followed by **one** spare clip with **5**, so **10** shots altogether! (Can only be used while the hunt is up) \n\n!**reload** Like the one above. Reloads your gun when you run out of Ammo. (Can only be used while the hunt is up) ",
+  "roles": "**Role Menu: React to give yourself a Region!** \n\n :one: : **`North America`**\n\n :two: : **`South America`**\n\n :three: : **`Europe`**\n\n :four: : **`Asia`**\n\n :five: : **`Africa`**\n\n :six: : **`Australia`**\n\n",
+  "genders": "**Role Menu: React to give yourself a Gender!** \n\n :mens: : **`Male`** :womens: : **`Female`**",
+  "NSFW": "**Role Menu: React to give yourself a Role!** \n\n :white_check_mark: : **`SFW`** :no_entry: : **`NSFW`**",
+  "welcome1": "**Welcome!**",
+  "welcomebanner1": "https://images.unsplash.com/photo-1508280756091-9bdd7ef1f463?ixlib=rb-1.2.1&w=1000&q=80",
+  "welcomebanner2": "https://www.washingtonpost.com/resizer/uwlkeOwC_3JqSUXeH8ZP81cHx3I=/arc-anglerfish-washpost-prod-washpost/public/HB4AT3D3IMI6TMPTWIZ74WAR54.jpg",
+  "welcomebanner3": "https://static.boredpanda.com/blog/wp-content/uploads/2020/02/finley-dog-tennis-ball-record-fb8-png__700.jpg",
+  "welcome": "0",
+  "Hit": " > Killed the Notorious Monster! Rewarded 100 XP. ",
+  "Missed": " > You missed, keep shooting! ",
+  "OutofAmmo": " >  MAGAZINE EMPTY  | Ammunition in the weapon: 0 / 5 | Magazines remaining: 1 / 1 ",
+  "OutofAmmoMag": " >  MAGAZINE EMPTY  | Ammunition in the weapon: 0 / 5 | Magazines remaining: 0 / 1 ",
+  "Reload": " > You reloaded your weapon. | Ammo in weapon: 5/5 | Magazines left: 0/1 ",
+  "Jammed": " > Your gun has jammed! Try again. "
+}
